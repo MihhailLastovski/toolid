@@ -1,0 +1,35 @@
+.regform {
+    width: 400px;
+    margin: 0 auto;
+    margin-top: 50px;
+    text-align: left;
+    background-color: #444;
+    padding: 20px;
+    border-radius: 5px;
+}
+
+dl {
+    margin: 0;
+}
+
+dt {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-bottom: 5px;
+    color: #fff;
+}
+
+dd {
+    margin-bottom: 15px;
+}
+
+input[type="text"] {
+    padding: 5px;
+    width: 100%;
+    box-sizing: border-box;
+    background-color: #555;
+    color: #fff;
+    border: none;
+    border-radius: 3px;
+}
+
